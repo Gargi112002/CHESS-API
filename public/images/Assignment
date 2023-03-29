@@ -1,0 +1,18 @@
+================================= chess.com API project ======================================
+
+GET
+
+1. Players Profile
+2. Title Player
+3. Filter Players according to the Title
+4. Display stats of the selected player
+5. Display Leaderboard with filters
+6. Search player with username
+
+Topics:
+
+1. API call using axios or any library
+2. React router and navigation
+3. Props passing
+4. React Hooks (useState, useEffect, useCallback, useRef etc.)
+5. Test the api using postman or thunderclient

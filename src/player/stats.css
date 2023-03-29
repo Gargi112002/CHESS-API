@@ -1,0 +1,51 @@
+.playerstats{
+    text-align: center;
+}
+button{
+    color: brown;
+    padding: 5px;
+}
+h5{
+    font-size: 20px;
+    text-align: center;
+    color: #422800;
+}
+
+.ss{
+    font-size: 50px;
+    padding-bottom: 15px;
+    color: white;
+    /* margin-bottom: 30px; */
+}
+button{
+    border-color: brown;
+    border-style:inherit;
+    padding: 5px;
+}
+
+h7{
+    text-align: center;
+    display: grid;
+      padding: 7px;
+      margin: 40px;
+      gap: 10px;   
+      background-color:rgb(128, 85, 59);
+      color: rgb(185, 160, 123);
+      font-size: 35px;
+  }
+  .tt{
+      padding-top: 0px;
+      margin-bottom: 10px;
+      font-display: 30px;
+      background-color: rgb(207, 138, 91);  
+      
+      
+  }
+  
+  button:hover{
+      background-color:rgb(173, 124, 82);
+  }
+  .item{
+    background-color: rgb(197, 144, 98);
+    font-size: 25px;
+  }

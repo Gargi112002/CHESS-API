@@ -1,0 +1,33 @@
+div{ 
+    color: sienna;
+}
+
+a{
+	text-decoration: none;
+}
+
+.heading,.this{
+    display: flex;
+    height: 2vh;
+    background: brown;
+    background-color: rgb(81, 69, 55);
+}
+
+.navbar , .container-fluid{
+    color: brown;
+    
+}
+.nav nav-tabs{
+    margin: 0px;
+    box-sizing:border-box;
+}
+
+b{
+    color:white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+    display:flex;
+    height: 50px;
+}

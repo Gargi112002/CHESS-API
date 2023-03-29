@@ -1,0 +1,36 @@
+.playerprofile{
+    text-align: center;
+}
+button{
+    color: brown;
+    padding: 5px;
+}
+h5{
+    font-size: 2px;
+    text-align: center;
+    color: #422800;
+}
+h7{
+    text-align: center;
+  display: grid;
+    padding: 7px;
+    margin: 40px;
+    gap: 10px;   
+    background-color:rgb(128, 85, 59);
+    color: rgb(185, 160, 123);
+    font-size: 5px;
+}
+.pp{
+    font-size: 40px;
+    padding-bottom: 15px;
+    color: white;
+    /* margin-bottom: 30px; */
+}
+button{
+    border-color: brown;
+    border-style:inherit;
+    padding: 2px;
+}
+button:hover{
+    background-color:antiquewhite;
+}

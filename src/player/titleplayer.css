@@ -1,0 +1,42 @@
+button{
+    background-color: rgb(124, 112, 104);
+    padding: 5px; 
+      
+}
+h3{
+  font-size: 60px;
+  text-align: center;
+  margin: 0px;
+}
+
+h7{
+  text-align: center;
+  display: grid;
+    padding: 7px;
+    margin: 40px;
+    gap: 10px;   
+    background-color:rgb(196, 167, 150);
+    font-size: 35px;
+}
+.tt{
+    padding-top: 0px;
+    margin-bottom: 10px;
+    font-display: 30px;
+    background-color: rgba(85, 76, 70, 0.63);  
+    color: rgba(218, 162, 110, 0.493);
+    font-size: 50px;
+    
+}
+
+button:hover{
+    background-color:rgb(102, 78, 57);
+}
+.item{
+  background-color: rgb(71, 37, 7);
+  font-size: 25px;
+}
+.tileplayer{
+  padding:25%;
+  padding-top: 0cm;
+  
+}
